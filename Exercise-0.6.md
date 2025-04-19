@@ -10,3 +10,4 @@ sequenceDiagram
     Server-->>Browser: JSON File
 
     Browser->>User: Renders new note submitted by User.
+```
